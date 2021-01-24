@@ -1,3 +1,4 @@
+cd Desktop\git\public
 git add .
 git commit -am "add feature"
 git push
